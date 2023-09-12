@@ -1,5 +1,6 @@
 ## AR Day Activity
 
+Ranked #3 in Amazon's Robotics Rumble Hackathon at Memorial university. This is the code for the AR Problem.
 
 ### Overview
 This code package provides a simulator for a simplified version of a 2D robotics floor. Your goal as the designer is 
